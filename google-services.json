@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "752689082317",
+    "project_id": "myapp-62155",
+    "storage_bucket": "myapp-62155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752689082317:android:63f06ea160f53c6ae85e84",
+        "android_client_info": {
+          "package_name": "com.jitendra.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752689082317-an4h518asc96lmmarvqfv4amgo0dunvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpxR49pRDufQ3f-4uIQ54AtzxH1siBhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752689082317-an4h518asc96lmmarvqfv4amgo0dunvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
